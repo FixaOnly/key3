@@ -24,9 +24,9 @@
     "particleColor1": "#ff00ea",
     "particleColor2": "#0000ff",
     "socials": {
-      "telegram": true,
-      "youtube": true,
-      "instagram": true
+      "telegram": false,
+      "youtube": false,
+      "instagram": false
     }
   },
   "theme": {
