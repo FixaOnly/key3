@@ -57,6 +57,13 @@
     "BANNED_DEVICE_ID_2"
   ],
   "keys": {
+    "1": {
+      "type": "duration",
+      "interval": "1d",
+      "notify": true,
+      "value": "1d",
+      "toast": "halo"
+    },
     "VIP_GOLD": {
       "type": "lifetime",
       "interval": "1d",
