@@ -4,13 +4,13 @@
     "silentCheck": true,
     "timezone": "Asia/Kolkata",
     "broadcastEnabled": false,
-    "broadcastMessage": "🔥 New Season Update is Live! Check Telegram.",
+    "broadcastMessage": "ð¥ New Season Update is Live! Check Telegram.",
     "adminUrl": "https://t.me/DPMods",
     "tgBotToken": "8186081322:csvH88KOO3ZBaMbGFB4PMTKvYobAYM",
     "tgChatId": "-10028934579684"
   },
   "security": {
-    "packageName": "com.dpmods",
+    "packageName": "com.admin.fh",
     "killOnMismatch": true
   },
   "ui": {
@@ -43,7 +43,7 @@
   },
   "promo": {
     "enabled": false,
-    "text": "🛒 BUY CHEAP KEYS - 50% OFF",
+    "text": "ð BUY CHEAP KEYS - 50% OFF",
     "url": "https://t.me/DP_Seller"
   },
   "update": {
@@ -61,27 +61,27 @@
       "type": "lifetime",
       "interval": "1d",
       "notify": true,
-      "toast": "💛 Welcome Gold VIP Member!"
+      "toast": "ð Welcome Gold VIP Member!"
     },
     "VIP_SILVER": {
       "type": "lifetime",
       "interval": "12h",
       "notify": true,
-      "toast": "🥈 Welcome Silver Member!"
+      "toast": "ð¥ Welcome Silver Member!"
     },
     "TRIAL_1HOUR": {
       "type": "duration",
       "value": "1h",
       "interval": "everytime",
       "notify": true,
-      "toast": "⏳ 1 Hour Trial Started"
+      "toast": "â³ 1 Hour Trial Started"
     },
     "TRIAL_1DAY": {
       "type": "duration",
       "value": "1d",
       "interval": "everytime",
       "notify": true,
-      "toast": "📅 24 Hour Trial Active"
+      "toast": "ð 24 Hour Trial Active"
     },
     "YOUTUBER_KEY": {
       "type": "lifetime",
@@ -91,14 +91,14 @@
       ],
       "interval": "1w",
       "notify": false,
-      "toast": "🎥 Welcome Content Creator!"
+      "toast": "ð¥ Welcome Content Creator!"
     },
     "RESELLER_PANEL": {
       "type": "date",
       "value": "2030-12-31",
       "interval": "1d",
       "notify": true,
-      "toast": "🛒 Reseller Access Granted"
+      "toast": "ð Reseller Access Granted"
     },
     "WEEKLY_SUB": {
       "type": "duration",
@@ -119,7 +119,7 @@
       "interval": "everytime",
       "notify": true,
       "value": "2047-05-01",
-      "toast": "🧪 Beta Access (Expires May 1st)",
+      "toast": "ð§ª Beta Access (Expires May 1st)",
       "devices": [
         "TESTER_DEVICE_1",
         "TESTER_DEVICE_2"
@@ -131,14 +131,14 @@
         "YOUR_PERSONAL_DEVICE_ID"
       ],
       "notify": false,
-      "toast": "👑 Welcome Owner"
+      "toast": "ð Welcome Owner"
     },
     "DPMods": {
       "type": "duration",
       "interval": "everytime",
       "notify": true,
       "value": "1h",
-      "toast": "🛒 Reseller Access Granted"
+      "toast": "ð Reseller Access Granted"
     },
     "atul": {
       "type": "date",
