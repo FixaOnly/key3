@@ -1,0 +1,42 @@
+{
+  "version": "1.0.0",
+  "message": "🔥 Update terbaru!",
+  "files": [
+    {
+      "name": "localConfig.json",
+      "url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/localConfig.json",
+      "version": "1.0.1",
+      "size": 2450,
+      "checksum": "",
+      "targetPath": "files",
+      "isRequired": true
+    },
+    {
+      "name": "anti_recoil.js",
+      "url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/anti_recoil.js",
+      "version": "1.0.0",
+      "size": 1234,
+      "checksum": "",
+      "targetPath": "files",
+      "isRequired": true
+    },
+    {
+      "name": "wallhack.js",
+      "url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/wallhack.js",
+      "version": "1.0.0",
+      "size": 5678,
+      "checksum": "",
+      "targetPath": "files",
+      "isRequired": true
+    },
+    {
+      "name": "bypass.lua",
+      "url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/bypass.lua",
+      "version": "1.0.0",
+      "size": 3456,
+      "checksum": "",
+      "targetPath": "root",
+      "isRequired": false
+    }
+  ]
+}
